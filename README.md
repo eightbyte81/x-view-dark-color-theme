@@ -1,4 +1,4 @@
-# xViewDark
+# [xViewDark](https://marketplace.visualstudio.com/items?itemName=thomas-richter.xviewdark)
 
 ## Dark theme inspired by Vue.js docs and Xcode Dark
 
