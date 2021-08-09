@@ -4,9 +4,9 @@
 
 ### [Release Notes](https://github.com/eightbyte81/x-view-dark-color-theme/blob/main/CHANGELOG.md)
 
-#### [GitHub] (https://github.com/eightbyte81/x-view-dark-color-theme)
+#### [GitHub](https://github.com/eightbyte81/x-view-dark-color-theme)
 
-#### [Images] (https://themes.vscode.one/theme/Jerrythemem/UKR2BayU)
+#### [Images](https://themes.vscode.one/theme/Jerrythemem/UKR2BayU)
 
 ![default](./pics/xviewdark-default.jpeg)
 ![panelTerminal](./pics/xviewdark-panelTerminal.jpeg)
