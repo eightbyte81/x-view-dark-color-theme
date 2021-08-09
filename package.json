@@ -18,5 +18,9 @@
       }
     ]
   },
-  "publisher": "thomas-richter"
+  "publisher": "thomas-richter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eightbyte81/x-view-dark-color-theme.git"
+  }
 }
