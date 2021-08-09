@@ -1,0 +1,21 @@
+{
+    "name": "xviewdark",
+    "displayName": "xViewDark",
+    "description": "Dark theme inspired by Vue.js docs and Xcode Dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "xViewDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/xViewDark-color-theme.json"
+            }
+        ]
+    }
+}
