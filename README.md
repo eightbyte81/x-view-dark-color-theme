@@ -9,5 +9,7 @@
 #### [Images](https://themes.vscode.one/theme/Jerrythemem/UKR2BayU)
 
 ![default](./pics/xviewdark-default.jpeg)
+
 ![panelTerminal](./pics/xviewdark-panelTerminal.jpeg)
+
 ![commandPalette](./pics/xviewdark-commandPalette.jpeg)
